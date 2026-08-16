@@ -47,3 +47,17 @@ Edit to taste — these are what gets pasted into matching fields.
 - A win / accomplishment:
 - Conflict / collaboration example:
 - Leadership example:
+- "Tell us about a project you're proud of": default to (project name, or "model picks the best fit from the profile's Projects section")
+- A win / accomplishment: (your biggest measurable win - 2-3 sentences)
+
+## Why software engineering / why this career?
+
+<!-- If your background isn't a straight line into this field, forms and interviews will ask. 2-3 sentences, positive framing. -->
+
+-
+
+## Notes for the agent (do not paste verbatim)
+
+<!-- Context and instructions for the agent, not text to paste: interpretation rules, timeline explanations, per-company notes. Never quoted directly into a form. -->
+
+- (any period in your timeline that needs context)
