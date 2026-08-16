@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Cover letter — {{company}} — {{role}}</title>
+<style>
+  @page { size: A4; margin: 2cm 2.5cm; }
+  body {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 11pt;
+    line-height: 1.5;
+    color: #1a1a1a;
+  }
+  .name { font-size: 14pt; font-weight: bold; margin: 0; }
+  .contact { font-size: 10pt; color: #444; margin-top: 2px; }
+  h1 {
+    font-size: 11.5pt;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: #333;
+    margin: 1.5em 0 0.7em;
+  }
+  p { margin: 0 0 0.9em; }
+  .sig { margin-top: 1.6em; }
+</style>
+</head>
+<body>
+  <div class="name">Full Name</div>
+  <div class="contact">City, Country &middot; email &middot; phone &middot; linkedin.com/in/...</div>
+
+  <h1>{{role}} &mdash; {{company}}</h1>
+
+  <p>Paragraph one: what you do and why it fits this specific role.</p>
+  <p>Paragraph two: the concrete proof point (win with numbers) from your work history.</p>
+  <p>Paragraph three: one job-specific detail showing you read the listing, and a close.</p>
+
+  <div class="sig">Best regards,<br>Full Name</div>
+</body>
+</html>
